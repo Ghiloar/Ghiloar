@@ -2,7 +2,7 @@
 - 👀 I’m interested in maths, physics and simulation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ilghila06@gmail.com
+- 📫 How to reach me: DM me at @ghiloar_ on instagram
 
 <!---
 Ghiloar/Ghiloar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
